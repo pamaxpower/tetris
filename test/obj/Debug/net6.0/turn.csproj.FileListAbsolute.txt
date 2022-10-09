@@ -1,0 +1,15 @@
+C:\Users\LordIK\Desktop\tetris\turn\bin\Debug\net6.0\turn.exe
+C:\Users\LordIK\Desktop\tetris\turn\bin\Debug\net6.0\turn.deps.json
+C:\Users\LordIK\Desktop\tetris\turn\bin\Debug\net6.0\turn.runtimeconfig.json
+C:\Users\LordIK\Desktop\tetris\turn\bin\Debug\net6.0\turn.dll
+C:\Users\LordIK\Desktop\tetris\turn\bin\Debug\net6.0\turn.pdb
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.csproj.AssemblyReference.cache
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.AssemblyInfoInputs.cache
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.AssemblyInfo.cs
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.csproj.CoreCompileInputs.cache
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.dll
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\refint\turn.dll
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.pdb
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\turn.genruntimeconfig.cache
+C:\Users\LordIK\Desktop\tetris\turn\obj\Debug\net6.0\ref\turn.dll
