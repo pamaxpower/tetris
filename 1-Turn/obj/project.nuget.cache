@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WB1glZUgjQv16ccdUdy8VjDfo4pUUi4UsuMcG9T2C08mM+K0zoYgSKj4XWsM5PvM09ighvWWhYjOZvoZiN4OJQ==",
+  "dgSpecHash": "6JyA4ZWhvtbogjU80QFxr64x4NMmfcLgJeh7JA5xM12FOhw/mEMpjs13o3gWQkxf+kGq4yzyU3D/sn3I+IAaBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LordIK\\Desktop\\tetris\\start\\start.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Tetris\\tetris\\1-Turn\\start.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
