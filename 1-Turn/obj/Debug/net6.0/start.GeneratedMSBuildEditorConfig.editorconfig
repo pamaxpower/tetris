@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = start
-<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\Lenovo\Desktop\Tetris\tetris\1-Turn\
-=======
-build_property.ProjectDir = c:\Users\LordIK\Desktop\tetris\1-Turn\
->>>>>>> db805ded554b6750e31567a02a8a3d5161f90061

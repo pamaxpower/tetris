@@ -26,14 +26,14 @@ Console.WriteLine(b);
 
 
 // Перепоолнение double:
-
+/*
 double a = 1.0 / 0.0;
 Console.WriteLine(double.IsInfinity(a));                // Проверка на бесконечность: true 
 double b = 0.0 / 0.0;
 Console.WriteLine(double.IsNaN(b));                     // Проверка на нечисло: true 
 double c = double.MaxValue + double.MaxValue;
 Console.WriteLine(double.IsInfinity(c));                // Проверка на бесконечность: true 
-
+*/
 
 
 /* Переполнение decimal - всегда вызывает исключение (ошибку), даже если используется ключевое слово checked
