@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IrxdFSfoEEWrzG5ZtGsulSnVhTxE3omQMDM4zLBHht/o8cP6dh3bsmchjlxBnOdtAYbnJzdOSVnbY9DLYW3R5A==",
+  "dgSpecHash": "2lfBrrmfk6XBRwxx55bLsuaPal7Dr1wLov+Q8RD23KbMih+bjCB2eJmAq6Bi/ozTFpji6aMlGRAvZALHf6oMag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LordIK\\Desktop\\tetris\\Params\\Params.csproj",
+  "projectFilePath": "C:\\Users\\LordIK\\Desktop\\tetris\\SimpleCode\\Params\\Params.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

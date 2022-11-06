@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LordIK\\Desktop\\tetris\\Params\\Params.csproj",
+      "projectUniqueName": "C:\\Users\\LordIK\\Desktop\\tetris\\SimpleCode\\Params\\Params.csproj",
       "projectName": "Params",
-      "projectPath": "C:\\Users\\LordIK\\Desktop\\tetris\\Params\\Params.csproj",
+      "projectPath": "C:\\Users\\LordIK\\Desktop\\tetris\\SimpleCode\\Params\\Params.csproj",
       "packagesPath": "C:\\Users\\LordIK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LordIK\\Desktop\\tetris\\Params\\obj\\",
+      "outputPath": "C:\\Users\\LordIK\\Desktop\\tetris\\SimpleCode\\Params\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LordIK\\AppData\\Roaming\\NuGet\\NuGet.Config"
